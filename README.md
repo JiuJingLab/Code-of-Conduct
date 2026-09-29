@@ -1,8 +1,8 @@
 # 社群行為準則 Code of Conduct
 
-淨地是一個保護隱私、對抗偷拍的公益專案。我們的社群必須先是一個安全的空間。
+揪鏡是一個保護隱私、對抗偷拍的公益專案。我們的社群必須先是一個安全的空間。
 
-本準則適用於所有 Clear Space 社群空間：GitHub（Issue、PR、Discussion）、Discord、讀書會、線上與實體活動，以及以專案身分進行的任何交流。
+本準則適用於所有 揪鏡 JiuJing 社群空間：GitHub（Issue、PR、Discussion）、Discord、讀書會、線上與實體活動，以及以專案身分進行的任何交流。
 
 ---
 
